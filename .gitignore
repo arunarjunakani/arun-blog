@@ -2,6 +2,7 @@ node_modules/
 .cache/
 public/
 npm-debug.log
+yarn.lock
 .eslintcache
 .gatsby-context.js
 .idea
